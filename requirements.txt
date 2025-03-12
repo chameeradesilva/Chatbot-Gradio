@@ -1,9 +1,11 @@
+huggingface_hub==0.25.2
 google-generativeai==0.8.4
 google-ai-generativelanguage==0.6.15
 gradio
 langchain
 langchain-google-genai
-pinecone
+pinecone-client
 langchain_community
 langchain-pinecone
-pinecone-notebooks
+sentence-transformers
+langchain-huggingface
